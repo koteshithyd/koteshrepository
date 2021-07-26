@@ -1,0 +1,9 @@
+{
+	"name": "koteshadf2",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "11f5f732-a704-4615-88cd-3811cd9903b9",
+		"tenantId": "72d63642-f926-462f-90c5-a12897bb033c"
+	}
+}
